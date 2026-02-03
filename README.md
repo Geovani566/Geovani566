@@ -30,12 +30,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 
-  <a href="<a href="mailto:geovanitomaz3@gmail.com">
-">
+  <a href="mailto:geovanitomaz3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/seu-perfil-aqui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </div>
@@ -43,4 +42,3 @@
 ---
 
 <img src="https://raw.githubusercontent.com/Geovani566/Geovani566/output/snake.svg" alt="Snake animation" />
-
