@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 
-  <a href="https://www.linkedin.com/in/seu-perfil-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/geovani-tomaz-64bb75375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </div>
